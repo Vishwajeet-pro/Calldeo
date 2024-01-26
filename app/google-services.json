@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440375618151",
+    "project_id": "calldeo",
+    "storage_bucket": "calldeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440375618151:android:9725ae92e004666a7c82c2",
+        "android_client_info": {
+          "package_name": "com.example.calldeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440375618151-o3bsuddrs5rbl2l3d0qd8amjlekqd8ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15xt4xWNmIDSIz9GnQZCDp683ol6E0eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440375618151-o3bsuddrs5rbl2l3d0qd8amjlekqd8ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
